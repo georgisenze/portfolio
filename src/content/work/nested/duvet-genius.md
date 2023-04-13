@@ -1,7 +1,7 @@
 ---
 title: La Boutique Gino
-publishDate: 2020-03-04 00:00:00
-img: /assets/ecommerce.png
+publishDate: 2023-04-12 08:10:00
+img: /assets/photo4.jpg
 img_alt: Image de la page des produits de la Boutique Gino
 description: |
  Site E-commerce réalisé avec le framework Symfony.
