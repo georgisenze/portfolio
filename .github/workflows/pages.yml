@@ -24,7 +24,7 @@ jobs:
         uses: withastro/action@v0
         with:
             # L'emplacement racine de votre projet Astro dans le dépôt. (facultatif)
-            path: /
+            #  path: 
             # La version spécifique de Node qui doit être utilisée pour build votre site. La valeur par défaut est 16. (facultatif)
              node-version: 18.13.0
             # Le gestionnaire de paquets Node qui doit être utilisé pour installer les dépendances et build votre site. Détecté automatiquement en fonction de votre lockfile. (facultatif)
