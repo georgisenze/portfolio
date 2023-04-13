@@ -23,7 +23,7 @@ jobs:
       - name: Install, build, and upload your site
         uses: withastro/action@v0
         with:
-            # L'emplacement racine de votre projet Astro dans le dépôt. (facultatif)
+             # L'emplacement racine de votre projet Astro dans le dépôt. (facultatif)
             #  path: 
             # La version spécifique de Node qui doit être utilisée pour build votre site. La valeur par défaut est 16. (facultatif)
              node-version: 18.13.0

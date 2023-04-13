@@ -1,6 +1,6 @@
 ---
 title: La Boutique Gino
-publishDate: 2023-04-12 08:10:00
+publishDate: 2020-03-04 00:00:00
 img: /assets/ecommerce.png
 img_alt: Image de la page des produits de la Boutique Gino
 description: |
